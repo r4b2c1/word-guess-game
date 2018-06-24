@@ -1,0 +1,45 @@
+html,body {
+
+    background-image: url(https://cdn.evbuc.com/eventlogos/1654454/atlanta.jpg);
+
+    align-content: center;
+
+    border-image-repeat: stretch;
+
+}
+
+ 
+
+h1 {
+
+    text-align: center;
+
+    color: red;
+
+}
+
+h2 {
+
+    text-align: center;
+
+    color: red;
+
+}
+
+#answer {
+
+    align-content: center;
+
+    text-align: center;
+
+    color: red;
+
+}
+
+.input {
+
+    align-content: center;
+
+    text-align: center;
+
+}
